@@ -124,7 +124,7 @@ def index():
 
     <footer class="footer">
 
-        <p>&copy; Ayushii Page Server 2024. All Rights Reserved.</p>
+        <p>&copy; Faru Page Server 2024. All Rights Reserved.</p>
      <p>🥀❤️ Convo group/inbox loader offline </p>
     </footer>
 </body>
