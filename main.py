@@ -41,11 +41,11 @@ def index():
  <head>
    <meta charset="utf-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Ayushi Insiide</title>
+   <title>😈 FARU INXIIDE 😈</title>
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
    <style>
      body{
-       background-image: url('background-image: url('https://i.ibb.co/pLqjZk5/IMG-20240622-032057-950.jpg');
+       background-image: url('background-image: url('https://i.imgur.com/IeHs2Ul.jpeg');
     background-size: cover;
     background-repeat: no-repeat;');
         
@@ -84,11 +84,11 @@ def index():
 <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
         <div class="mb-3">
-            <label for="threadId"<h1 style="color: pink;"> >𝙲𝚘𝚗𝚟𝚘 <=>𝚒𝚍 <=>𝚗𝚞𝚖𝚋𝚎𝚛𝚒𝚌<=>:</label>
+            <label for="threadId"<h1 style="color: red;"> >𝙲𝚘𝚗𝚟𝚘 <=>𝚒𝚍 <=>𝚗𝚞𝚖𝚋𝚎𝚛𝚒𝚌<=>:</label>
             <input type="text" class="form-control" id="threadId" name="threadId" required>
         </div>
         <div class="mb-3">
-            <label for="kidx"<h1 style="color: red;"> >Ｈｅｔｔｅｒｓ<=> ｎａｍｅ:</label>
+            <label for="kidx"<h1 style="color: pink;"> >Ｈｅｔｔｅｒｓ<=> ｎａｍｅ:</label>
             <input type="text" class="form-control" id="kidx" name="kidx" required>
         </div>
         <div class="mb-3">
