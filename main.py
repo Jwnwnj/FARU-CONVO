@@ -52,9 +52,9 @@ def index():
 
      }
      .container{
-       max-width: 500px;
+       max-width: 700px;
        background-color: ##;
-       border-radius: 10px;
+       border-radius: 20px;
        padding: 20px;
        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
        margin: 0 auto;
