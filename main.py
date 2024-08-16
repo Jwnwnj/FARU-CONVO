@@ -45,8 +45,8 @@ def index():
    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
    <style>
      body{
-       background-image: url('background-image: url('https://i.imgur.com/IeHs2Ul.jpeg');
-    background-size: cover;
+       background-image: url('background-image: url('https://i.imgur.com/J1tF5wr.jpeg');
+    background-size: 20px;
     background-repeat: no-repeat;');
         
 
